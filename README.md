@@ -40,6 +40,10 @@
   
   <a href="https://www.oracle.com/" rel="nofollow"> <img src="https://github.com/icondorcett/icondorcett/blob/main/oracle-original.svg" alt="Oracle" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"></a>
+  
+  <ul dir="auto">
+  <li>Si te interesa y quieres saber un poco más sobre mi, contacta conmigo <g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> <a href="mailto:ivancondorcett@gmail.com">ivancondorcett@gmail.com</a></li>
+  </ul>  
 <!--
 **icondorcett/icondorcett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
