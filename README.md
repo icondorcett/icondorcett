@@ -30,8 +30,9 @@
 <p dir="auto">
   <img src="https://img.shields.io/badge/-Bootstrap-red"/>
   <img src="https://img.shields.io/badge/-Angular-cian"/>  
-  <img src="https://img.shields.io/badge/-Heroku-purple"/>
-  <img src="https://img.shields.io/badge/-Django -green"/>
+  <img src="https://img.shields.io/badge/-Heroku-violet"/>  
+  <img src="https://img.shields.io/badge/-Django-green"/>
+  <img src="https://img.shields.io/badge/-Docker-blue"/>
   <img src="https://img.shields.io/badge/-Git-brown"/>
   <img src="https://img.shields.io/badge/-GitHub-silver"/>   
   <img src="https://img.shields.io/badge/-Visual Studio Code-blue"/>   
