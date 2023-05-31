@@ -35,7 +35,10 @@
   <img src="https://img.shields.io/badge/-Docker-blue"/>
   <img src="https://img.shields.io/badge/-Git-brown"/>
   <img src="https://img.shields.io/badge/-GitHub-silver"/>   
-  <img src="https://img.shields.io/badge/-Visual Studio Code-blue"/>   
+  <img src="https://img.shields.io/badge/-Visual Studio Code-blue"/> 
+  <img src="https://img.shields.io/badge/-Trello-yellowgreen"/> 
+  <img src="https://img.shields.io/badge/-Jira Software-gold"/> 
+  
   </p>
   <h3 align="left" dir="auto">Base de Datos</h3> 
   
