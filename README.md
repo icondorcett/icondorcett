@@ -38,7 +38,7 @@
   </p>
   <h3 align="left" dir="auto">Base de Datos</h3> 
   
-  <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://www.oracle.com/" rel="nofollow"> <img src="https://github.com/icondorcett/icondorcett/blob/main/oracle-original.svg" alt="Oracle" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"></a>
 <!--
 **icondorcett/icondorcett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
