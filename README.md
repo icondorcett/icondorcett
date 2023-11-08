@@ -11,7 +11,7 @@
 <p dir="auto">Un profesional con una actitud dinámica, responsable y comprometido a la hora de encarar y desarrollar nuevos proyectos. Tengo capacidad de análisis, planificación y trabajo en equipo. Me gusta asumir retos y superarme día a día.</p>
 </li>
 <li>
-<p dir="auto">Estoy realizando una Diplomatura en Ciencia de Datos e Inteligencia Artificial en la Universidad Nacional de San Martin</p>
+<p dir="auto">Diplomatura en Ciencia de Datos e Inteligencia Artificial en la Universidad Nacional de San Martin</p>
 </li>
 </ul>
 
